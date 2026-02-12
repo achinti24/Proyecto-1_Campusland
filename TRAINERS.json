@@ -1,0 +1,56 @@
+{
+    "profesores": [
+        {
+            "id": 1,
+            "nombre": "Pedro Felipe Gomez",
+            "horario": "6am a 6pm",
+            "rutas": [
+                "Node.js",
+                "Java"
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Johlber",
+            "horario": "6am a 2pm",
+            "rutas": [
+                "Java",
+                "NetCore"
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Cristian Dias",
+            "horario": "10am a 6pm",
+            "rutas": [
+                "Java",
+                "Node.js"
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Edwin Salas",
+            "horario": "6am a 2pm",
+            "rutas": [
+                "Java",
+                "NetCore"
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Kevin David",
+            "horario": "6am a 2pm",
+            "rutas": [
+                "Java"
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "Carlos Rueda",
+            "horario": "2pm a 10pm",
+            "rutas": [
+                "Java"
+            ]
+        }
+    ]
+}
