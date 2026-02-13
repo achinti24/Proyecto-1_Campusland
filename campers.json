@@ -2,8 +2,8 @@
     "campers": [
         {
             "id": "123",
-            "nombre": "julian",
-            "apellidos": "pinto",
+            "nombre": "achinti",
+            "apellidos": "morales",
             "direccion": "crr20",
             "acudiente": "sebastian",
             "telefono": "313029489556",
@@ -22,7 +22,8 @@
             "estado": "En proceso de ingreso",
             "riesgo": "Bajo",
             "ruta": null,
-            "notas": {}
+            "notas": {
+            }
         }
     ]
 }

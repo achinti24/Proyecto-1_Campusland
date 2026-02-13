@@ -16,7 +16,6 @@ print("2. registrarse")
 print("3. salir")
 
 opcion = int(input("seleccione una opcion: "))
-
 if opcion == 1:
     usuarios = cargar_usuarios()
 

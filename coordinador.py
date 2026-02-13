@@ -44,7 +44,7 @@ def crud_trainers():
             if not datos:
                 print("No hay trainers registrados")
             else:
-                for t in datos:
+                for t in datos("profesores"):
                     print(t)
         elif opcion == "3":
             nombre_buscar = input("Nombre del trainer a actualizar: ").lower()
@@ -201,3 +201,29 @@ def crud_campers():
                     json.dump(datos, archivo, indent=4, ensure_ascii=False)
 
                 print("Camper eliminado correctamente")
+                
+def menu_coordinador():
+
+    opcion = ""
+
+    while opcion != "3":
+
+        print("\n====== MENÚ COORDINADOR ======")
+        print("1. CRUD Campers")
+        print("2. CRUD Trainers")
+        print("3. Salir")
+
+        opcion = input("Seleccione una opción: ")
+
+        if opcion == "1":
+            crud_campers()
+
+        elif opcion == "2":
+            crud_trainers()
+
+        elif opcion == "3":
+            print("Saliendo del módulo coordinador...")
+
+        else:
+            print("Opción inválida")
+
