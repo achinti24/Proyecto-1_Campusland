@@ -2,14 +2,43 @@
     {
         "correo": "admin@campus.com",
         "password": "1234",
-        "rol": "coordinador"
+        "rol": "coordinador",
+        "nombre": "Coordinador Académico"
     },
     {
-        "correo": "trainer1@campus.com",
-        "password": "abcd",
-        "rol": "trainer"
-        
-
+        "correo": "johlber@campus.com",
+        "password": "trainer123",
+        "rol": "trainer",
+        "nombre": "Johlber"
+    },
+    {
+        "correo": "edwin@campus.com",
+        "password": "trainer123",
+        "rol": "trainer",
+        "nombre": "Edwin Salas"
+    },
+    {
+        "correo": "pedro@campus.com",
+        "password": "trainer123",
+        "rol": "trainer",
+        "nombre": "Pedro Felipe Gomez"
+    },
+    {
+        "correo": "cristian@campus.com",
+        "password": "trainer123",
+        "rol": "trainer",
+        "nombre": "Cristian Diaz"
+    },
+    {
+        "correo": "kevin@campus.com",
+        "password": "trainer123",
+        "rol": "trainer",
+        "nombre": "Kevin David"
+    },
+    {
+        "correo": "carlos@campus.com",
+        "password": "trainer123",
+        "rol": "trainer",
+        "nombre": "Carlos Rueda"
     }
-    
 ]

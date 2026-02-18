@@ -4,7 +4,35 @@
             "id": "R1",
             "nombre": "NodeJS",
             "capacidad_maxima": 33,
-            "campers_asignados": [],
+            "campers_asignados": [
+                "1116",
+                "1117",
+                "1118",
+                "1119",
+                "1120",
+                "1121",
+                "1122",
+                "1123",
+                "1124",
+                "1134",
+                "1135",
+                "1136",
+                "1137",
+                "1138",
+                "1139",
+                "1140",
+                "1141",
+                "1142",
+                "1152",
+                "1153",
+                "1154",
+                "1155",
+                "1156",
+                "1157",
+                "1158",
+                "1159",
+                "1160"
+            ],
             "trainer_asignado": null,
             "salon": null,
             "horario": null,
@@ -14,37 +42,37 @@
                 "fundamentos": {
                     "descripcion": "Algoritmia, PSeInt y Python",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 8,
+                        "reprobados": 9
                     }
                 },
                 "web": {
                     "descripcion": "HTML, CSS y Bootstrap",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 13,
+                        "reprobados": 6
                     }
                 },
                 "programacion_formal": {
                     "descripcion": "JavaScript",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 15,
+                        "reprobados": 3
                     }
                 },
                 "bases_datos": {
                     "principal": "MongoDB",
                     "alternativo": "MySQL",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 15,
+                        "reprobados": 2
                     }
                 },
                 "backend": {
                     "tecnologias": "NodeJS, Express",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 11,
+                        "reprobados": 8
                     }
                 }
             }
@@ -54,49 +82,102 @@
             "nombre": "Java",
             "capacidad_maxima": 33,
             "campers_asignados": [
-                "321",
-                "4321"
+                "1080",
+                "1081",
+                "1082",
+                "1083",
+                "1084",
+                "1085",
+                "1086",
+                "1087",
+                "1088",
+                "1098",
+                "1099",
+                "1100",
+                "1101",
+                "1102",
+                "1103",
+                "1104",
+                "1105",
+                "1106",
+                "1125",
+                "1126",
+                "1127",
+                "1128",
+                "1129",
+                "1130",
+                "1131",
+                "1132",
+                "1133",
+                "1143",
+                "1144",
+                "1145",
+                "1146",
+                "1147",
+                "1148",
+                "1149",
+                "1150",
+                "1151",
+                "1161",
+                "1162",
+                "1163",
+                "1164",
+                "1165",
+                "1166",
+                "1167",
+                "1168",
+                "1169",
+                "1170",
+                "1171",
+                "1172",
+                "1173",
+                "1174",
+                "1175",
+                "1176",
+                "1177",
+                "1178",
+                "1179"
             ],
-            "trainer_asignado": "Edwin Salas",
-            "salon": "Artemis",
-            "horario": "6am-10am",
-            "fecha_inicio": "15/02/2026",
-            "fecha_fin": "15/12/2026",
+            "trainer_asignado": null,
+            "salon": null,
+            "horario": null,
+            "fecha_inicio": null,
+            "fecha_fin": null,
             "modulos": {
                 "fundamentos": {
                     "descripcion": "Algoritmia, PSeInt y Python",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 1
+                        "aprobados": 25,
+                        "reprobados": 17
                     }
                 },
                 "web": {
                     "descripcion": "HTML, CSS y Bootstrap",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 27,
+                        "reprobados": 14
                     }
                 },
                 "programacion_formal": {
                     "descripcion": "Java",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 22,
+                        "reprobados": 13
                     }
                 },
                 "bases_datos": {
                     "principal": "PostgreSQL",
                     "alternativo": "MySQL",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 23,
+                        "reprobados": 14
                     }
                 },
                 "backend": {
                     "tecnologias": "Spring Boot",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 28,
+                        "reprobados": 15
                     }
                 }
             }
@@ -106,49 +187,65 @@
             "nombre": "NetCore",
             "capacidad_maxima": 33,
             "campers_asignados": [
-                "123",
-                "1098"
+                "1089",
+                "1090",
+                "1091",
+                "1092",
+                "1093",
+                "1094",
+                "1095",
+                "1096",
+                "1097",
+                "1107",
+                "1108",
+                "1109",
+                "1110",
+                "1111",
+                "1112",
+                "1113",
+                "1114",
+                "1115"
             ],
-            "trainer_asignado": "Edwin Salas",
-            "salon": "Apolo",
-            "horario": "6am-10am",
-            "fecha_inicio": "",
-            "fecha_fin": "Error en fecha",
+            "trainer_asignado": null,
+            "salon": null,
+            "horario": null,
+            "fecha_inicio": null,
+            "fecha_fin": null,
             "modulos": {
                 "fundamentos": {
                     "descripcion": "Algoritmia, PSeInt y Python",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 4,
+                        "reprobados": 5
                     }
                 },
                 "web": {
                     "descripcion": "HTML, CSS y Bootstrap",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 3,
+                        "reprobados": 7
                     }
                 },
                 "programacion_formal": {
                     "descripcion": "C#",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 9,
+                        "reprobados": 5
                     }
                 },
                 "bases_datos": {
                     "principal": "SQL Server",
                     "alternativo": "PostgreSQL",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 5,
+                        "reprobados": 7
                     }
                 },
                 "backend": {
                     "tecnologias": "NetCore",
                     "estadisticas": {
-                        "aprobados": 0,
-                        "reprobados": 0
+                        "aprobados": 5,
+                        "reprobados": 2
                     }
                 }
             }
